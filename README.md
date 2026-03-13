@@ -44,9 +44,9 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
- <img width="1920" height="1080" alt="Screenshot 2026-03-12 133648" src="https://github.com/user-attachments/assets/cb75d336-152d-4a8e-9819-4030b9c060c5" />
- <img width="1920" height="1080" alt="Screenshot 2026-03-12 133745" src="https://github.com/user-attachments/assets/2b93cae1-9a42-4c3a-8a48-760e61d67dc1" />
- <img width="1920" height="1080" alt="Screenshot 2026-03-12 133812" src="https://github.com/user-attachments/assets/3205377a-4b90-4134-a0c3-a45d2ee4a368" />
+ <img width="1920" height="1080" alt="Screenshot 2026-03-12 133648" src="https://github.com/user-attachments/assets/0566b619-ff63-4679-b72b-5527c4c47adf" />
+ <img width="1920" height="1080" alt="Screenshot 2026-03-12 133745" src="https://github.com/user-attachments/assets/dd71f1d8-6cf2-455f-8ee4-cb335f6c6806" />
+ <img width="1920" height="1080" alt="Screenshot 2026-03-12 133812" src="https://github.com/user-attachments/assets/1e7479e8-452b-408a-ab5e-1d7f671c9f66" />
 
 ### Name: Surya.N
 ### Register Number: 212225040442
